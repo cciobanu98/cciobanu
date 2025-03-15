@@ -5,7 +5,7 @@ theme = "hugo-coder"
 
 [params]
   author = "cciobanu"
-  description = "A blog about programming, and tech"
+  description = "A blog about programming and tech"
   keywords = ["selfhosting", "programming", "technology"]
   avatarURL = "images/avatar.jpg"
   dateFormat = "January 2, 2006"
