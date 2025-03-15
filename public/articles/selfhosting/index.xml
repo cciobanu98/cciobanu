@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selfhosting on cciobanu</title>
+    <link>http://localhost:1313/articles/selfhosting/</link>
+    <description>Recent content in Selfhosting on cciobanu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/selfhosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part 1 - Introduction to Selfhosting</title>
+      <link>http://localhost:1313/articles/selfhosting/part-1-introduction/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/selfhosting/part-1-introduction/</guid>
+      <description>&lt;h2 id=&#34;what-is-selfhosting&#34;&gt;&#xD;&#xA;  What is Selfhosting?&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-selfhosting&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Selfhosting means running your own applications and services on your own hardware instead of using cloud providers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-selfhost&#34;&gt;&#xD;&#xA;  Why Selfhost?&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#why-selfhost&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Privacy &amp;amp; Control&lt;/strong&gt; – Your data stays with you.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Customization&lt;/strong&gt; – You decide how services run.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cost Efficiency&lt;/strong&gt; – Avoid subscription fees.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./part-2-setting-up/&#34; &gt;Next: Setting up your first selfhosted service →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
