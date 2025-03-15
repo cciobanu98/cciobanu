@@ -1,4 +1,4 @@
-baseURL = "https://cciobanu.com/"
+baseURL = "https://cciobanu.dev/"
 languageCode = "en-us"
 title = "cciobanu"
 theme = "hugo-coder"
@@ -7,7 +7,7 @@ theme = "hugo-coder"
   author = "cciobanu"
   description = "A blog about programming, and tech"
   keywords = ["selfhosting", "programming", "technology"]
-  avatarURL = "images/avatar.png"
+  avatarURL = "images/avatar.jpg"
   dateFormat = "January 2, 2006"
 
 [[menu.main]]
